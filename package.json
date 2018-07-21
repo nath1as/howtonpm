@@ -19,5 +19,8 @@
     "url": "https://github.com/nath1as/howtonpm/issues"
   },
   "homepage": "https://github.com/nath1as/howtonpm#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
 }
