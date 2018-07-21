@@ -1,11 +1,23 @@
 {
-  "name": "how-to-npm",
+  "name": "@nathias/how-to-npm",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nath1as/howtonpm.git"
+  },
+  "keywords": [
+    "tutorial",
+    "npm"
+  ],
+  "bugs": {
+    "url": "https://github.com/nath1as/howtonpm/issues"
+  },
+  "homepage": "https://github.com/nath1as/howtonpm#readme",
+  "description": ""
 }
